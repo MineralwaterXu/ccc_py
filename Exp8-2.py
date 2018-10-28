@@ -15,3 +15,4 @@ def sum_even(x):
 x = int(input("Please input the number:" ))
 print("sum_odd:",sum_odd(x))
 print("sum_even:",sum_even(x))
+input("Thank you.Press Enter button to exit.")

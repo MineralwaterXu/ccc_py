@@ -7,3 +7,4 @@ def multiply(x):
     return multiply
 x = int(input("Please input a number:"))
 print(multiply(x))
+input("Thank you.Press Enter button to exit.")
